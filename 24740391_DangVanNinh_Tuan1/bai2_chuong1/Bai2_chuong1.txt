@@ -1,0 +1,17 @@
+package Chuong1;
+   
+import java.util.Scanner;
+
+public class bai_1 {
+int name;
+public void name() {
+	
+	System.out.println("Hello Dang Van Ninh");
+}
+public static void main(String[] args) {
+	bai_1 obj = new bai_1();
+	obj.name();
+	System.out.println("Chao ban den voi JAVA");
+	
+}
+}
